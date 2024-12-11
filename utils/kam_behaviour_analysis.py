@@ -1,4 +1,4 @@
-def kam_behaviour_analysis(transcript, model="gpt-4o-mini"): 
+def kam_behaviour_analysis(transcript, model="gpt-4o"): 
     import openai
     import os
     from dotenv import load_dotenv
